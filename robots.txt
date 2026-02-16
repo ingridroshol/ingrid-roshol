@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap location (update domain after publishing)
+Sitemap: https://example.com/sitemap.xml
